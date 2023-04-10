@@ -1,0 +1,4 @@
+Hello, there! 
+My name is Anton Sjöström, and I'm a Quantitative Researcher/Trader at SEB, one of the largest banks in Scandinavia. As someone with a passion for mathematics, I discovered during my university years that programming is an excellent tool for solving mathematical problems. As a result, I have created this GitHub profile to showcase a variety of math-related projects that I've been working on.
+My profile will feature a mix of different projects, from solving puzzles by hand to tackling them through code. I also enjoy exploring machine learning and conducting hobby research. I believe that there's a lot of value in sharing knowledge, which is why I'm excited to use this platform to connect with fellow math enthusiasts and share my work with others.
+Thank you for visiting my profile, and I look forward to engaging with you on this platform!
