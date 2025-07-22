@@ -23,8 +23,8 @@ My work focuses on quantitative market-making strategies, leveraging probabilist
 
 ## Currently Exploring
 
-- Lean 4 (formal theorem proving)
-- Rust (systems programming)
+- Lean 4 (Formal theorem proving)
+- Rust (Systems programming)
 
 ---
 
