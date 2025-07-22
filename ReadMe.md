@@ -29,7 +29,7 @@ My work focuses on quantitative market-making strategies, leveraging probabilist
 ---
 
 ## Papers
-These first two papers is in English but with a Swedish introduction on the first pages.
+The first two papers are in English but have a Swedish introduction on the first pages.
 - **Master Thesis:**  
     [Signal Detection in Quantitative Trading (PDF)](Papers/Signal%20detection%20of%20FX%20Fixing%20events.pdf)
 
