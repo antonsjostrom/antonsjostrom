@@ -6,6 +6,25 @@ My focus is on quantitative market-making strategies, leveraging tools like prob
 
 This GitHub page features a selection of my public projects.  
 While many repositories remain private as they evolve, feel free to explore what's here.
+---
+
+## Mathematical Interests
+
+- Probability theory and statistical analysis
+- Probabilistic programming (Bayesian inference)
+- Numerical methods for partial differential equations (PDEs)
+- Mathematical optimization
+
+## Programming Languages & Tools
+
+- Python
+- C++
+- Git
+
+## Currently Exploring
+
+- Lean 4 (formal theorem proving)
+- Rust (systems programming)
 
 ---
 
@@ -19,7 +38,7 @@ While many repositories remain private as they evolve, feel free to explore what
 
 ---
 
-## Monthly Competitions
+## Digital Footprint
 
 Sometimes I participate in monthly competitions where the goal is to solve a puzzle or math problem with a time constraint.  
 One of these puzzles (Jane Street) has a leaderboard where you get your name published if you solve it.
