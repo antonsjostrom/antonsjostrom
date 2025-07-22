@@ -14,7 +14,7 @@ While many repositories remain private as they evolve, feel free to explore what
 - **Master Thesis:**  
   [Signal Detection in Quantitative Trading (PDF)](./SignalDetection_MasterThesis.pdf)
 
-- **Individual Project:**  
+- **Course Project:**  
   [Goal-Oriented Finite Element Methods for Two and Three Dimensional Spread/Basket Options (PDF)](./GoalOriented_FEM_Project.pdf)
 
 ---
