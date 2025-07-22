@@ -1,9 +1,9 @@
 ## About Me
 
-Hello!  
+Hello!
 
 I'm Anton Sjöström, a Quantitative Researcher at SEB, one of Scandinavia's leading banks.  
-My work centers on quantitative market-making strategies, utilizing probabilistic programming and advanced statistical methods to generate actionable insights. This GitHub page highlights a selection of my public projects and provides general information about my professional interests. While many repositories are private as they develop, you are welcome to explore the available content.
+My work focuses on quantitative market-making strategies, leveraging probabilistic programming and statistical methods to generate actionable insights. This GitHub page showcases a selection of my public projects and provides information about my professional interests. The projects here are independent of my position at SEB and reflect my personal interests. While many repositories remain private during development, you are welcome to explore the available content.
 
 ---
 
