@@ -17,6 +17,7 @@ My work focuses on quantitative market-making strategies, leveraging probabilist
 ## Programming Languages & Tools
 
 - Python
+- KDB/Q
 - C++
 - Git
 
