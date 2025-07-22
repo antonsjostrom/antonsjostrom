@@ -31,10 +31,10 @@ My work focuses on quantitative market-making strategies, leveraging probabilist
 ## Papers
 
 - **Master Thesis:**  
-  [Signal Detection in Quantitative Trading (PDF)](./SignalDetection_MasterThesis.pdf)
+  [Signal Detection in Quantitative Trading (PDF)](./Signal detection of FX Fixing events.pdf)
 
 - **Course Project:**  
-  [Goal-Oriented Finite Element Methods for Two and Three Dimensional Spread/Basket Options (PDF)](./GoalOriented_FEM_Project.pdf)
+  [Goal-Oriented Finite Element Methods for Two and Three Dimensional Spread/Basket Options (PDF)](./Goal-Oriented Adaptive FEM for Option Pricing with Duality-Based A Posteriori Estimates.pdf)
 
 ---
 
