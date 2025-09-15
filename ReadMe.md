@@ -38,7 +38,7 @@ The first two papers are in English but have a Swedish introduction on the first
 
 ---
 
-## Digital Footprint
+## Digital Footprints
 
 Sometimes I participate in monthly competitions where the goal is to solve a puzzle or math problem with a time constraint.  
 One of these puzzles (Jane Street) has a leaderboard where you get your name published if you solve it.
