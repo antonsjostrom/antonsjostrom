@@ -51,6 +51,11 @@ Currently, you can find my name (Anton Sjöström) on the leaderboards of these 
 - [September 2024 – Fences 2](https://www.janestreet.com/puzzles/fences-2-solution/)
 - [August 2024 – Tree Edge Triage](https://www.janestreet.com/puzzles/tree-edge-triage-solution/)
 
+I have a repo where I aim to post more elaborate solutions to the puzzles. However, I haven’t been all that consistent with it, so there are more puzzles I’ve solved than ones I’ve actually written detailed solutions for.
+
+That said, for the ones I have documented, they’re linked here.
+- [Detailed Solutions](https://github.com/antonsjostrom/OnlinePuzzles/tree/main)
+
 ## Fun Exploration Projects
 I also do some project when I'm at home and have some extra time to explore some ideas.
 These are more for me to learn something new, build intuition or test my knowledge and not anything cutting-edge.
