@@ -53,8 +53,9 @@ Currently, you can find my name (Anton Sjöström) on the leaderboards of these 
 
 I have a repo where I aim to post more elaborate solutions to the puzzles. However, I haven’t been all that consistent with it, so there are more puzzles I’ve solved than ones I’ve actually written detailed solutions for.
 
-That said, for the ones I have documented, they’re linked here.
-- [Detailed Solutions](https://github.com/antonsjostrom/OnlinePuzzles/tree/main)
+That said, for the ones I have documented, they’re linked here: [Detailed Solutions](https://github.com/antonsjostrom/OnlinePuzzles/tree/main)
+
+I also run a weekly quandary at work called _Quanton's Quandaries_, named after my nickname, Quanton. Some of the more interesting ones (and a few I've extended when the follow-up turned out to be worthwhile) are hosted in this repo: [Quantons Quandaries](https://github.com/antonsjostrom/QuantonsQuandaries)
 
 ## Fun Exploration Projects
 I also do some project when I'm at home and have some extra time to explore some ideas.
