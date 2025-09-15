@@ -50,3 +50,7 @@ Currently, you can find my name (Anton Sjöström) on the leaderboards of these 
 - [October 2024 – Knight Moves 6](https://www.janestreet.com/puzzles/knight-moves-6-solution/)
 - [September 2024 – Fences 2](https://www.janestreet.com/puzzles/fences-2-solution/)
 - [August 2024 – Tree Edge Triage](https://www.janestreet.com/puzzles/tree-edge-triage-solution/)
+
+## Fun Exploration Projects
+[MoonOrbit](https://github.com/antonsjostrom/MoonOrbit)
+[BuzzingBoundary](https://github.com/antonsjostrom/BuzzingBoundary)
