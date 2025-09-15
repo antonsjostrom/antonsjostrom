@@ -52,5 +52,7 @@ Currently, you can find my name (Anton Sjöström) on the leaderboards of these 
 - [August 2024 – Tree Edge Triage](https://www.janestreet.com/puzzles/tree-edge-triage-solution/)
 
 ## Fun Exploration Projects
-[MoonOrbit](https://github.com/antonsjostrom/MoonOrbit)
-[BuzzingBoundary](https://github.com/antonsjostrom/BuzzingBoundary)
+I also do some project when I'm at home and have some extra time to explore some ideas.
+These are more for me to learn something new, build intuition or test my knowledge and not anything cutting-edge.
+- [MoonOrbit](https://github.com/antonsjostrom/MoonOrbit)
+- [BuzzingBoundary](https://github.com/antonsjostrom/BuzzingBoundary)
