@@ -58,6 +58,6 @@ These are more for me to learn something new, build intuition or test my knowled
 - [BuzzingBoundary](https://github.com/antonsjostrom/BuzzingBoundary)
 
 ## Extra things
-Here I will put Misc things, such as projects from University Courses that I still have left.
+Here I will put miscellaneous things, such as projects from University Courses that I still have left.
 They are more used for demonstrating a particular skill.
 - [C++ project](https://github.com/antonsjostrom/High-Perfomance-Computing-Project)
