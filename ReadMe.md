@@ -45,6 +45,7 @@ One of these puzzles (Jane Street) has a leaderboard where you get your name pub
 
 Currently, you can find my name (Anton Sjöström) on the leaderboards of these puzzles:
 
+- [September 2025 – Hooks 11](https://www.janestreet.com/puzzles/hooks-11-solution/)
 - [March 2025 – Hall of Mirrors 3](https://www.janestreet.com/puzzles/hall-of-mirrors-3-solution/)
 - [November 2024 – Beside the Point](https://www.janestreet.com/puzzles/beside-the-point-solution/)
 - [October 2024 – Knight Moves 6](https://www.janestreet.com/puzzles/knight-moves-6-solution/)
