@@ -45,6 +45,7 @@ One of these puzzles (Jane Street) has a leaderboard where you get your name pub
 
 Currently, you can find my name (Anton Sjöström) on the leaderboards of these puzzles:
 
+- [February 2026 – Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-solution/)
 - [October 2025 – Robot Baseball](https://www.janestreet.com/puzzles/robot-baseball-solution/)
 - [September 2025 – Hooks 11](https://www.janestreet.com/puzzles/hooks-11-solution/)
 - [March 2025 – Hall of Mirrors 3](https://www.janestreet.com/puzzles/hall-of-mirrors-3-solution/)
